@@ -1,0 +1,14 @@
+{
+
+    "name": "Layer 1 Tales Test",
+    "symbol": "L1TT",
+    "uri": "https://raw.githubusercontent.com/worldofsolana/L1T/main/token_metadata_github.json",
+    "seller_fee_basis_points": 100,
+    "creators": [
+        {
+            "address": "FYb3Grf5QaVV9LMNtZgK2PnBxafzkbdStTtVk5Lv5Czs",
+            "verified": false,
+            "share": 100
+        }
+    ]
+}
