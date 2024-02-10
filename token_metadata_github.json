@@ -1,0 +1,16 @@
+{
+    "name": "Layer 1 Tales Test",
+    "symbol": "L1TT",
+    "description": "This is going to be L1T 🔥",
+    "image": "https://raw.githubusercontent.com/worldofsolana/L1T/main/L1TT.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/worldofsolana/L1T/main/L1TT.png",
+
+                "type": "image/png"
+            }
+        ]
+    }
+}
